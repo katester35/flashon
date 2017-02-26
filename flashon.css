@@ -56,6 +56,11 @@ body {
        font-size: 0.9em;
        line-height: 1;
      }
+     #sewingcurcuit, #sewingcurcuit2, #sewingcurcuit3, #alyssadress, #alyssathemodel, #alyssaiscute, #alyssathecutie, #alyssasdress1, #alyssasdress2{
+	      float: left;
+	       width: 30%;
+	       clear: none;
+       }
      .logo {
        display: block;
        margin: 3em 0;
