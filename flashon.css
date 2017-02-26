@@ -58,13 +58,18 @@ body {
        line-height: 1;
      }
      #sewingcurcuit, #sewingcurcuit2, #sewingcurcuit3, #alyssadress, #alyssathemodel, #alyssaiscute, #alyssathecutie, #alyssasdress1, #alyssasdress2{
-	      float: left;
 	      width: 500px;
         height: 600px;
-	      clear: none;
        }
      .logo {
        display: block;
        margin: 3em 0;
        text-align: center;
+     }
+     .rotate270{
+       -webkit-transform: rotate(270deg);
+       -moz-transform: rotate(270deg);
+       -o-transform: rotate(270deg);
+       -ms-transform: rotate(270deg);
+       transform: rotate(270deg);
      }
