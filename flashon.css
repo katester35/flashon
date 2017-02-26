@@ -59,9 +59,9 @@ body {
      }
      #sewingcurcuit, #sewingcurcuit2, #sewingcurcuit3, #alyssadress, #alyssathemodel, #alyssaiscute, #alyssathecutie, #alyssasdress1, #alyssasdress2{
 	      float: left;
-	       width: 500px;
-         height: 600px;
-	       clear: none;
+	      width: 500px;
+        height: 600px;
+	      clear: none;
        }
      .logo {
        display: block;
